@@ -1,3 +1,4 @@
+#pallindrome
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         rev=0
