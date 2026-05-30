@@ -14,4 +14,9 @@
 <img width="1200" height="1600" alt="rooman" src="https://github.com/user-attachments/assets/2fa40a4a-9501-4ad1-a374-d196da2a9dfc" />
 <img width="1200" height="1600" alt="roman2" src="https://github.com/user-attachments/assets/bc8025f0-5bce-4415-a7a4-96b4e2950e51" />
 
+## INTEAGER TO ROMAN
+<img width="1200" height="1600" alt="inteager to roman" src="https://github.com/user-attachments/assets/9ea9d542-a0dc-47c6-a84b-e5929ddd4bc0" />
+<img width="1200" height="1600" alt="inteager to roman2" src="https://github.com/user-attachments/assets/b762dd80-e74c-4ac7-a254-af0637334a62" />
+
+
 
