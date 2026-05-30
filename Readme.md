@@ -10,4 +10,8 @@
 <img width="960" height="1280" alt="addnumber" src="https://github.com/user-attachments/assets/b57bd0a5-06b5-4c4f-81c1-52becdf7abb0" />
 <img width="960" height="1280" alt="addnumbers2" src="https://github.com/user-attachments/assets/e3caccff-588a-4b76-b729-09a4626c283c" />
 
+## ROMAN TO INTEAGER
+<img width="1200" height="1600" alt="rooman" src="https://github.com/user-attachments/assets/2fa40a4a-9501-4ad1-a374-d196da2a9dfc" />
+<img width="1200" height="1600" alt="roman2" src="https://github.com/user-attachments/assets/bc8025f0-5bce-4415-a7a4-96b4e2950e51" />
+
 
