@@ -1,0 +1,13 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack=[]
+        dicts={")":"(","}":"{","]":"["}
+        for b in s:
+            if b in dicts:
+                if stack and stack[-1]==dicts[b]:
+                    stack.pop()
+                else:
+                    return False
+            else:
+                stack.append(b)
+        return True if not stack else False
